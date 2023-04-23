@@ -1,0 +1,19 @@
+h1{ text-align: center;}
+header {
+    background-color: black;
+    color: azure;
+}
+.nav {
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
